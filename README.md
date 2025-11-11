@@ -1,4 +1,4 @@
-<header>
+My first contribution to my branch is complete!<header>
 
 <!--
   <<< Author notes: Course header >>>
